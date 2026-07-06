@@ -2,13 +2,27 @@
       background-color: rgba(204, 131, 253, 0.938);
       color: rgb(0, 0, 0);
       text-aling: center;
-      max
+      text-aling: center
+     max-wight: 800px;
+     margin: 0 auto;
+     padding: 16px;
+    
   }
 
   .conteudo-principal{
 background-color: rgba(223, 154, 255, 0.897);
 color: rgb(0, 0, 0);
+max-width: 800px ;
+margin: 0 auto;
+padding: 16px;
 }
+
+.cabecalho-principal{
+  width: 200px;
+  height: 200px;
+}
+
+
 .cabecalho-paragrafo{
   font-weight: bold;
 }
@@ -20,6 +34,7 @@ color: rgb(0, 0, 0);
 
 .conteudo-principal-texto{
   font-weight: bold;
+  
 }
 
 
